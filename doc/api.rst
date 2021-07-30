@@ -5,7 +5,7 @@ API
 Classes
 -------
 
-.. currentmodule:: shablona
+.. currentmodule:: RSAmyMRI
 
 .. autosummary::
    :template: class.rst
